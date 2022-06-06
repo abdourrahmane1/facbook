@@ -16,18 +16,25 @@ margin-left: 60%;
 .main{
     display: flex;
     justify-content: space-between;
+    
 }
 .inputs{
-    display: flex;
+    display:flex;
+    flex-wrap: wrap;
 }
 .main2{
     margin-left: 10px;
+ 
+
+    
 }
 .btn1{
     margin-left: 10px;
-    width: 100px;
-    height: 25px;
-    margin-top: 48px;
+    width: px;
+    height: 19px;
+    margin-top: px;
+    flex-wrap: wrap;
+
 }
 header{
     background-color: #3A5A97;
@@ -42,10 +49,7 @@ body{
     background-color: rgb(188, 199, 207);
 
 }
-.right{
-}
-.left{
-}
+
 .contenu{
     display: flex;
     justify-content: space-around;
